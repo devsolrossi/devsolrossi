@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, soy Sol Rossi</h1>
+<h1 align="center">Hola 👋, soy Sol Rossi</h1>
 <h3 align="center">Developer Jr. | html - css - javascript - python - mysql</h3>
 
 - 🌱 Actualmente estoy aprendiendo **python y big data**
