@@ -1,11 +1,30 @@
 <h1 align="center">Hola 👋, soy Sol Rossi</h1>
-<h3 align="center">Developer Jr. | html - css - javascript - python - mysql</h3>
+<h3 align="center">Desarrolladora Junior | html - css - javascript - python - mysql</h3>
 
 - 🌱 Actualmente estoy aprendiendo **python y big data**
 
 - 💬 Preguntame sobre **html, css, javascript, vue.js y un poco de mysql y python**
 
 - 📫 Escribime a **devsolrossi@gmail.com**
+
+
+¡Hola, soy Sol Rossi! Soy una apasionada desarrolladora web junior con una sólida base en tecnologías web y bases de datos. Mi enfoque se centra en la creación de soluciones web atractivas y funcionales que mejoran la experiencia del usuario y se integran con sistemas de bases de datos.
+
+**Habilidades Técnicas:**
+- HTML
+- CSS
+- JavaScript
+- Python
+- MySQL
+
+
+Durante mi formación y proyectos personales, he demostrado mi habilidad para diseñar y desarrollar sitios web responsivos que cumplen con los estándares modernos. Mi conocimiento en bases de datos me permite crear aplicaciones web dinámicas que gestionan y presentan datos de manera eficiente.
+
+Mi objetivo es seguir adquiriendo experiencia y conocimientos en el desarrollo web y las bases de datos, colaborar en proyectos innovadores y contribuir al éxito de equipos de trabajo creativos. Siempre estoy abierto a nuevas oportunidades y a establecer conexiones en la comunidad de desarrollo.
+
+¡No dudes en contactarme para colaboraciones, oportunidades laborales o simplemente para hablar sobre el emocionante mundo del desarrollo web y las bases de datos!
+
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
