@@ -1,6 +1,8 @@
 <h1 align="center">Hola 👋, soy Sol Rossi</h1>
 <h3 align="center">Desarrolladora Junior | html - css - javascript - python - mysql</h3>
 
+<img src="solrossicanva.jpg" alt="">
+
 - 🌱 Actualmente estoy aprendiendo **python y big data**
 
 - 💬 Preguntame sobre **html, css, javascript, vue.js y un poco de mysql y python**
